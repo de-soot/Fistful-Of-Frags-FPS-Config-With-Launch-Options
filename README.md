@@ -1,1 +1,3 @@
-# Fistful Of Frags FPS Config With Launch Options
+# Launch options :
+
+-novid -nojoy -nosteamcontroller -dxlevel 81
