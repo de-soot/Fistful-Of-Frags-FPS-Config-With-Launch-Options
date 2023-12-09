@@ -1,3 +1,3 @@
-# Launch options :
+# Launch options
 
--novid -nojoy -nosteamcontroller -dxlevel 81
+`-novid -nojoy -nosteamcontroller -dxlevel 81`
